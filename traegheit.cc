@@ -10,10 +10,8 @@
 #include <fstream>
 
 
-
 double traegheit(Koerper* k, Vektor a, Vektor u, double M) {
   std::cout << "berechne für " << k->name() << "\n";
-
   const int N = 10000;     // Anzahl Integrationspunkte
 
   double J = 0;     // Massentraegheitsmoment
@@ -32,6 +30,7 @@ double traegheit(Koerper* k, Vektor a, Vektor u, double M) {
 
 int main() {
 
+  const double M = 1;      // Masse des Zylindermantels
   const double ZM_R = 1.0; // Radius des Zylindermantels
   const double ZM_L = 1.0; // Laenge des Zylindermantels
   const double VZ_R = 1.0; // Radius des Vollzylinders

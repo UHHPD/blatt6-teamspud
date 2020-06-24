@@ -1,0 +1,4 @@
+R     L      M           a       u J ZM analyt. J ZM berechnet J VZ analyt. J VZ berechnet J KU analyt. J KU berechnetJ WU analyt. J WU berechnet
+1 m   1 m   1 kg   (0,0,0)  (0,0,1)  1               1            0.5        0.500802     0.4         0.303353         0.166667         0.166789
+2 m   1 m   1 kg   (0,0,0)  (0,0,1)  4               4            2        1.99174     1.6         1.20749         0.666667         0.167834
+1 m   1 m   2 kg   (0,0,0)  (0,0,1)  2               2            1        1.00344     0.8         0.615014         0.333333         0.333266
